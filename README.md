@@ -1,4 +1,4 @@
-# 🚘 BMW AI Experience  
+# 🚘 BMW AI Recommender  
 
 <div align="center">
 
